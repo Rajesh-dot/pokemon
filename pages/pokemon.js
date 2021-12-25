@@ -1,5 +1,5 @@
-import Layout from "../components/layout";
-import Link from "next/link";
+import Layout from "../components/Layout";
+import Link from "next/Link";
 
 export default function pokemon({ pokeman }){
     return(
